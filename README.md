@@ -1,6 +1,3 @@
-# E-Commerce
-Vallance E-Commerce
-
 # Vallance E-Commerce
 Vallance E-Commerce, e-ticaret platformlarından ürün verilerini çekmek ve analiz etmek için kullanılan açık kaynaklı bir web uygulamasıdır. Bu projede, Trendyol, Vatan ve Teknosa gibi popüler e-ticaret mağazalarından ürün isimleri, fiyatlar ve diğer ilgili veriler çekilmekte ve kullanıcılar için analiz edilmektedir.
 
