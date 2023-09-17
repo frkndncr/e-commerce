@@ -24,7 +24,7 @@ Proje hakkında daha fazla bilgi edinmek ve kullanmaya başlamak için Dokümant
 Bu projeye katkıda bulunmak isterseniz, lütfen Kat CONTRIBUTING.md dosyasını okuyun. Katkılarınızı memnuniyetle karşılıyoruz.
 
 # Lisans
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LİSANS dosyasını okuyun.
+Bu proje, GNU Genel Kamu Lisansı sürüm 3.0 (GPL-3.0) altında lisanslanmıştır. Daha fazla bilgi için [GPL-3.0](link) dosyasını okuyun.
 
 # İletişim
 Projeyle ilgili herhangi bir soru veya geri bildiriminiz varsa, lütfen emailadresi@mail.com adresinden bizimle iletişime geçin.
