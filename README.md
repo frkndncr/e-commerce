@@ -27,4 +27,4 @@ Bu projeye katkıda bulunmak isterseniz, lütfen Kat CONTRIBUTING.md dosyasını
 Bu proje, GNU Genel Kamu Lisansı sürüm 3.0 (GPL-3.0) altında lisanslanmıştır. Daha fazla bilgi için [GPL-3.0](link) dosyasını okuyun.
 
 # İletişim
-Projeyle ilgili herhangi bir soru veya geri bildiriminiz varsa, lütfen emailadresi@mail.com adresinden bizimle iletişime geçin.
+Projeyle ilgili herhangi bir soru veya geri bildiriminiz varsa, lütfen hi@furkandincer.com adresinden bizimle iletişime geçin.
