@@ -1,21 +1,21 @@
 # Vallance E-Commerce
-Vallance E-Commerce, e-ticaret platformlarından ürün verilerini çekmek ve analiz etmek için kullanılan açık kaynaklı bir web uygulamasıdır. Bu projede, Trendyol, Vatan ve Teknosa gibi popüler e-ticaret mağazalarından ürün isimleri, fiyatlar ve diğer ilgili veriler çekilmekte ve kullanıcılar için analiz edilmektedir.
+Vallance E-Commerce is an open source web application for looking at and analyzing product lines from e-commerce platforms. In this project, product names, prices and other relevant data are retrieved from popular e-commerce stores such as Trendyol, Vatan and Teknosa and analyzed for users.
 
-# Proje Açıklaması
-Vallance E-Commerce, çeşitli e-ticaret platformlarından veri çekmek ve bu verileri kullanıcı dostu bir şekilde sunmak için tasarlanmış bir web uygulamasıdır. Kullanıcılar, belirledikleri ürünlerin fiyatlarını karşılaştırabilir, en iyi fırsatları bulabilir ve online alışveriş deneyimlerini iyileştirebilirler.
+# Project Description
+Vallance E-Commerce is a web application designed to pull data from various e-commerce platforms and present this data in a user-friendly way. Users can compare prices of their selected products, identify the best markets, and improve their online shopping experience.
 
-# Kullanılan Teknolojiler
-Bu projede kullanılan temel teknolojiler şunlardır:
-Backend: PHP ve Node.js
-Veritabanı: MySQL
-Frontend: HTML, CSS ve JavaScript
-Veri Çekme: Web scraping
-Özellikler
-Trendyol, Vatan ve Teknosa gibi mağazalardan ürün verilerini çekme yeteneği.
-Ürün fiyatlarını karşılaştırma ve en iyi fırsatları bulma.
-Kullanıcı dostu ve kullanımı kolay arayüz.
-Nasıl Kullanılır
-Proje hakkında daha fazla bilgi edinmek ve kullanmaya başlamak için Dokümantasyon sayfasını ziyaret edebilirsiniz. 
+# Used technologies
+The main technologies used in this project are:
+Backend: PHP and Node.js
+Database: MySQL
+Front End: HTML, CSS and JavaScript
+Data Extraction: Web scraping
+Features
+Ability not to miss products from stores such as Trendyol, Vatan and Teknosa.
+Compare product prices and find the best deals.
+User-friendly and easy-to-use distribution.
+How to use
+You can visit the Documentation to learn more about the project and get started.
 
 # Installation
 
@@ -91,11 +91,11 @@ Once the installation is complete, open the command prompt and verify that Compo
 ![App Screenshot](https://i.hizliresim.com/p88aeq7.png)
 
 
-# Katkılar
-Bu projeye katkıda bulunmak isterseniz, lütfen Kat CONTRIBUTING.md dosyasını okuyun. Katkılarınızı memnuniyetle karşılıyoruz.
+# Contributions
+If you would like to contribute to this project, please read Kat CONTRIBUTING.md. We welcome your contributions.
 
-# Lisans
-Bu proje, GNU Genel Kamu Lisansı sürüm 3.0 (GPL-3.0) altında lisanslanmıştır. Daha fazla bilgi için [GPL-3.0](link) dosyasını okuyun.
+# Licence
+This project is licensed under the GNU General Public License version 3.0 (GPL-3.0). For more information, read [GPL-3.0](link).
 
-# İletişim
-Projeyle ilgili herhangi bir soru veya geri bildiriminiz varsa, lütfen hi@furkandincer.com adresinden bizimle iletişime geçin.
+# Communication
+If you have any questions or feedback about the project, please contact us at hi@furkandincer.com.
