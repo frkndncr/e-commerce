@@ -17,6 +17,10 @@ User-friendly and easy-to-use distribution.
 How to use
 You can visit the Documentation to learn more about the project and get started.
 
+# Things To Do 
+Trendyol, Vatan, Teknosa stores are ready, but Amazon, Aliexpress are not ready, nothing in the SEO category is ready, only the pages are ready, nothing has been done by the backend, these are the missing things, apart from that, everything is ok, you can improve them if you wish. 
+06.10.2023
+
 # Installation
 
 XAMPP Installation
