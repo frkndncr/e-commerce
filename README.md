@@ -81,6 +81,16 @@ Install Composer by running the file you downloaded. During installation, you ca
 Once the installation is complete, open the command prompt and verify that Composer has been successfully installed by running the composer --version command.
 
 
+# Screenshots
+
+### Dashhboard
+![App Screenshot](https://i.hizliresim.com/4mw1hcp.png)
+
+### Product Search Page
+
+![App Screenshot](https://i.hizliresim.com/p88aeq7.png)
+
+
 # Katkılar
 Bu projeye katkıda bulunmak isterseniz, lütfen Kat CONTRIBUTING.md dosyasını okuyun. Katkılarınızı memnuniyetle karşılıyoruz.
 
