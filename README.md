@@ -84,6 +84,18 @@ Install Composer by running the file you downloaded. During installation, you ca
 
 Once the installation is complete, open the command prompt and verify that Composer has been successfully installed by running the composer --version command.
 
+## Database Setup
+
+Mysql Database Tables:
+
+user_id	
+username	
+email	
+password	
+avatar_path	
+created_at	
+reset_token	
+expired_token
 
 # Screenshots
 
