@@ -17,18 +17,6 @@ Kullanıcı dostu ve kullanımı kolay arayüz.
 Nasıl Kullanılır
 Proje hakkında daha fazla bilgi edinmek ve kullanmaya başlamak için Dokümantasyon sayfasını ziyaret edebilirsiniz. 
 
-
-
-# Katkılar
-Bu projeye katkıda bulunmak isterseniz, lütfen Kat CONTRIBUTING.md dosyasını okuyun. Katkılarınızı memnuniyetle karşılıyoruz.
-
-# Lisans
-Bu proje, GNU Genel Kamu Lisansı sürüm 3.0 (GPL-3.0) altında lisanslanmıştır. Daha fazla bilgi için [GPL-3.0](link) dosyasını okuyun.
-
-# İletişim
-Projeyle ilgili herhangi bir soru veya geri bildiriminiz varsa, lütfen hi@furkandincer.com adresinden bizimle iletişime geçin.
-
-
 # Installation
 
 XAMPP Installation
@@ -91,3 +79,13 @@ Go to the Composer Download Page and download the Composer download file for you
 Install Composer by running the file you downloaded. During installation, you can choose the option to make Composer accessible to all users.
 
 Once the installation is complete, open the command prompt and verify that Composer has been successfully installed by running the composer --version command.
+
+
+# Katkılar
+Bu projeye katkıda bulunmak isterseniz, lütfen Kat CONTRIBUTING.md dosyasını okuyun. Katkılarınızı memnuniyetle karşılıyoruz.
+
+# Lisans
+Bu proje, GNU Genel Kamu Lisansı sürüm 3.0 (GPL-3.0) altında lisanslanmıştır. Daha fazla bilgi için [GPL-3.0](link) dosyasını okuyun.
+
+# İletişim
+Projeyle ilgili herhangi bir soru veya geri bildiriminiz varsa, lütfen hi@furkandincer.com adresinden bizimle iletişime geçin.
