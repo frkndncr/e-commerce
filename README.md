@@ -97,6 +97,10 @@ created_at
 reset_token	
 expired_token
 
+Database File: https://github.com/frkndncr/e-commerce/blob/main/database.sql
+
+
+
 # Screenshots
 
 ### Dashhboard
